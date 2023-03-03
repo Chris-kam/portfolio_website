@@ -1,0 +1,64 @@
+{
+	"name": "nightowl-theme",
+	"displayName": "Night Owl Theme",
+	"description": "A dark not black but deep blue theme for Visual Studio Code.",
+	"version": "0.10.9",
+	"publisher": "AncientLord",
+	"author": {
+		"name": "Pranjal"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.55.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Owl Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night Owl Theme-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#011627",
+		"theme": "dark"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Night Owl Theme",
+		"Night Owl",
+		"Night Theme",
+		"Owl Theme",
+		"Owl",
+		"Accessible Theme",
+		"blue theme",
+		"dark mode theme",
+		"Pranjal",
+		"pranjal",
+		"ancientlord"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pran-jal/Night-Owl-Theme-VS-Code"
+	},
+	"issues": {
+		"url": "https://github.com/pran-jal/Night-Owl-Theme-VS-Code/issues"
+	},
+	"readme": "https://github.com/pran-jal/Night-Owl-Theme-VS-Code/README.md",
+	"__metadata": {
+		"id": "df017d5c-070d-4f71-a011-9da59cb87ef8",
+		"publisherId": "8a2caee5-bb0e-4319-ae21-0b3b4d1c77a1",
+		"publisherDisplayName": "AncientLord",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1664570329087
+	}
+}
